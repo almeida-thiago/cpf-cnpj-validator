@@ -12,7 +12,7 @@ To retrieve state of register:
 
 `originDocument('000.000.000-00') - For CPF only`
 
-Will return ** *true* ** if valid or ** *false* ** if invalid.
+Will return ***true*** if valid or ***false*** if invalid.
 
 ---
 

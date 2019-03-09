@@ -1,5 +1,5 @@
 /**
-  * Verify document origin by number
+  * Verify document origin by number.
   * @copyright Thiago Almeida - 2019.
   * @param {string|number} documentValue - Document number.
   * @returns {[string]} Retrun origin states.

@@ -16,6 +16,15 @@ Will return ***true*** if valid or ***false*** if invalid.
 
 ---
 
+## CPF and CNPJ mask
+
+Mask input with a brazilian CPF or CNPJ document type.
+> *mask-document.js*
+
+`maskDocumentInput('#input-id', 'CPF')`
+
+---
+
 #### CPF algorithm
 
 The first digit number can be get with this:
